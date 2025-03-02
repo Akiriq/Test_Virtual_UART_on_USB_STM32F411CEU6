@@ -108,6 +108,7 @@ int main(void)
   while (1)
   {
 	  // creating a modification in the project
+	  // doing an other modif to push it in GIT HUB
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
