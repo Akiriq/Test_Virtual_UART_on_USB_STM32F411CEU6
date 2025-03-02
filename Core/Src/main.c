@@ -107,6 +107,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  // creating a modification in the project
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
